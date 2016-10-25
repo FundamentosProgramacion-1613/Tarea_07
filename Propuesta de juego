@@ -1,0 +1,14 @@
+Planeo hacer un videojuego el cual contenga 3 niveles, los cuales van a contener distintos laberintos.
+La pista aparecerá en el primer nivel 8 segundos, en el segundo 6 y en el último 3 segundos. Sólo tiene la oportunidad de ver 
+el laberinto dos veces más por cada nivel; esto con el objetivo de que el usuario memorize la pista, para que después se 
+mueva hacía el trofeo el cual no desaparecerá de la pantalla.
+
+Si choca con algun límite aparecerá una pantalla de has perdido, si llega al trofeo aparece una pantalla de has ganado, ambos 
+con un menú en el cual elegirá si desea repetir el nivel, regresar al menu principal, o en caso de que gane, avanzar al
+siguiente nivel. 
+
+Los laberintos serán diseñados por mi con líneas y rectángulos.
+
+El jugador contará con 3 vidas por cada nivel, puntos extra por cada vida que no utilice y la puntuación del nivel dependerá
+del tiempo que se tarde en completar el nivel. 
+
